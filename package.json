@@ -35,10 +35,11 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "@ravendevkit/ravencore-lib": "^1.0.4",
-    "insight-api": "RavenDevKit/insight-api",
-    "insight-ui": "RavenDevKit/insight-ui",
-    "ravencore-node": "RavenDevKit/ravencore-node"
+    "insight-api": "blondfrogs/insight-api",
+    "insight-ui": "blondfrogs/insight-ui",
+    "ravencore-lib": "blondfrogs/ravencore-lib",
+    "ravencore-node": "blondfrogs/ravencore-node",
+    "zeromq": "^5.1.0"
   },
   "license": "MIT",
   "devDependencies": {
